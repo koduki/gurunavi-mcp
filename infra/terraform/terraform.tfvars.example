@@ -1,0 +1,11 @@
+project_id      = "your-gcp-project"
+region          = "asia-northeast1"
+name_prefix     = "gurunavi"
+container_image = "asia-northeast1-docker.pkg.dev/your-gcp-project/gurunavi-mcp/gurunavi-mcp:replace-with-immutable-tag"
+public_base_url = "https://your-stable-cloud-run-or-custom-domain.example"
+allowed_emails  = ["master@example.com"]
+
+create_firestore_database = false
+enable_reservation_submit = false
+deletion_protection       = true
+secret_version            = "1"
