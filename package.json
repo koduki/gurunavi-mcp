@@ -25,7 +25,7 @@
     "@google-cloud/firestore": "^8.7.0",
     "@google-cloud/kms": "^5.7.0",
     "@google-cloud/tasks": "^6.3.0",
-    "@modelcontextprotocol/express": "^2.0.0",
+    "@modelcontextprotocol/express": "^2.0.2",
     "@modelcontextprotocol/node": "^2.0.0",
     "@modelcontextprotocol/server": "^2.0.0",
     "cookie-parser": "^1.4.7",
